@@ -1,4 +1,4 @@
-# ISPC_CienciaDeDatosI
+# ISPC_CienciaDeDatos_I
 Trabajo práctico primera etapa
 
 URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
