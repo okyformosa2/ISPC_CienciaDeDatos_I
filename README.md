@@ -15,7 +15,11 @@ Integrantes:
     luissiccardi@gmail.com
     
   Urzagaste, Gisela
-  
+    Mar-Urzag (usuario de GitHub)
+    maria.u.urzagaste@outlook.com
+
   Vega, Franco
-  
+    Francovega (usuario de GitHub)
+    francovega1234@gmail.com
+
   López, Vanesa
