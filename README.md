@@ -4,26 +4,27 @@ Trabajo práctico primera etapa
 URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
 
 Integrantes:
-  Suarez, Juan
-
-  
-  Gesto, Giuliana
-  
-  
-  Siccardi, Luis  
-    LuisSiccardi (usuario de GitHub)
-    luissiccardi@gmail.com
+  - Suarez, Juan Pablo
+    - Email: jp.juansuarez@gmail.com
+    - Github: JuanPSuarez
     
-  Urzagaste, Gisela
-    Mar-Urzag (usuario de GitHub)
-    maria.u.urzagaste@outlook.com
+  - Gesto, Giuliana
+  
+  
+  - Siccardi, Luis  
+    - LuisSiccardi (usuario de GitHub)
+    - luissiccardi@gmail.com
+    
+  - Urzagaste, Gisela
+    - Mar-Urzag (usuario de GitHub)
+    - maria.u.urzagaste@outlook.com
 
-  Vega, Franco
-    Francovega (usuario de GitHub)
-    francovega1234@gmail.com
+  - Vega, Franco
+    - Francovega (usuario de GitHub)
+    - francovega1234@gmail.com
 
-  López, Vanesa
+  - López, Vanesa
 
-  Solá, Martín Hernán
-    tynzer (usuario de GitHub) Martinsola119@gmail.com
+  - Solá, Martín Hernán
+    - tynzer (usuario de GitHub) Martinsola119@gmail.com
 
