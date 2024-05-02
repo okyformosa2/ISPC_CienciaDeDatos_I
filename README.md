@@ -23,3 +23,7 @@ Integrantes:
     francovega1234@gmail.com
 
   López, Vanesa
+
+  Solá, Martín Hernán
+    tynzer (usuario de GitHub) Martinsola119@gmail.com
+
