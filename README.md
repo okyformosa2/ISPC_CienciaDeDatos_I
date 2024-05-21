@@ -9,7 +9,8 @@ Integrantes:
     - Github: JuanPSuarez
     
   - Gesto, Giuliana
-  
+    - Email: yellowgsg@gmail.com
+    - Github: gsgesto / giulianagesto
   
   - Siccardi, Luis  
     - LuisSiccardi (usuario de GitHub)
