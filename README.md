@@ -1,5 +1,5 @@
 # ISPC_CienciaDeDatos_I
-Trabajo práctico primera etapa
+##Trabajo práctico primera etapa
 
 URL Repositorio: https://github.com/LuisSiccardi/ISPC_CienciaDeDatos_I
 
@@ -29,3 +29,6 @@ Integrantes:
   - Solá, Martín Hernán
     - Email: martinsola119@gmail.com
     - Github: tynzer
+  - Ortiz, Oscar Alejandro
+    - Email: okyformosa@gmail.com
+    - Github: okyformosa2
