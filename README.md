@@ -27,5 +27,6 @@ Integrantes:
   - López, Vanesa
 
   - Solá, Martín Hernán
-    - tynzer (usuario de GitHub) Martinsola119@gmail.com
+    - tynzer (usuario de GitHub)
+    - martinsola119@gmail.com
 
