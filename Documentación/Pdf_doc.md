@@ -1,3 +1,9 @@
+# ISPC_CienciaDeDatos_I - 2024 - Cohorte 2023
+
+El dataset elegido es .........
+
+URL dataset: .........
+
 1. **estoy_trabajando_en**
    - **Descripción**: Nombre de la empresa en la que el encuestado está trabajando.
    - **Tipo de dato**: Carácter (string).
