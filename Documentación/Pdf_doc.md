@@ -4,6 +4,8 @@ El dataset elegido es .........
 
 URL dataset: https://www.kaggle.com/datasets/aletbm/argentina-salary-survey-sysarmy
 
+Estos son los tipos de datos y valores posibles para cada columna:
+
 1. **estoy_trabajando_en**
    - **Descripción**: Nombre de la empresa en la que el encuestado está trabajando.
    - **Tipo de dato**: Carácter (string).
@@ -255,5 +257,3 @@ URL dataset: https://www.kaggle.com/datasets/aletbm/argentina-salary-survey-sysa
     - **Descripción**: ID extra (para identificación interna).
     - **Tipo de dato**: Carácter (string).
     - **Valores posibles**: Cualquier cadena de texto para identificación.
-
-Estos son los tipos de datos y valores posibles para cada columna en tu conjunto de datos.
