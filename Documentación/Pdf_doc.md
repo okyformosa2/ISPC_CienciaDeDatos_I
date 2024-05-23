@@ -2,7 +2,7 @@
 
 El dataset elegido es .........
 
-URL dataset: .........
+URL dataset: https://www.kaggle.com/datasets/aletbm/argentina-salary-survey-sysarmy
 
 1. **estoy_trabajando_en**
    - **Descripción**: Nombre de la empresa en la que el encuestado está trabajando.
